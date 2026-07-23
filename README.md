@@ -1,7 +1,6 @@
 # Your Personal Portfolio
 
-A free, single-page portfolio site (plain HTML/CSS/JS, no build step, no frameworks)
-inspired by the structure of https://filippocastellani.github.io/Portfolio/ — a sidebar
+A free, single-page portfolio site (plain HTML/CSS/JS, no build step, no frameworks)-a sidebar
 profile card, tabbed navigation (About / Resume / Projects / Publications / Contact),
 timeline-style resume, project cards, and a contact form.
 
